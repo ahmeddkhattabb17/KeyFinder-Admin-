@@ -17,7 +17,6 @@ A modern React admin dashboard built for managing and visualizing application da
 - Vite
 - Tailwind CSS
 - Redux Toolkit
-- React Redux
 - React Router
 - Axios
 - Recharts
@@ -25,8 +24,6 @@ A modern React admin dashboard built for managing and visualizing application da
 - SweetAlert2
 
 ## 🏗️ Architecture
-The project follows a component-driven React structure with routing, centralized state management, reusable UI components, and service/API communication.
-
 ```text
 React UI
  ├── Pages / Routes
@@ -48,7 +45,7 @@ npm run build
 ```
 
 ## 🎯 Portfolio Focus
-KeyFinder Admin demonstrates modern React architecture, state management, dashboard UI, charts, responsive design, and scalable frontend organization.
+Modern React architecture, state management, dashboard UI, charts, responsive design, and scalable frontend organization.
 
 ## 👤 Author
 Ahmed Khattab — Frontend Developer
